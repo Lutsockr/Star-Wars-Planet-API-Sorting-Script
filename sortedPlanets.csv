@@ -1,0 +1,37 @@
+name, diameter, gravity, climate, population
+Tatooine,10465,1 standard,arid,200000
+Alderaan,12500,1 standard,temperate,2000000000
+Yavin IV,10200,1 standard,temperate/tropical,1000
+Bespin,118000,1.5 (surface)/1 standard (Cloud City),temperate,6000000
+Endor,4900,0.85 standard,temperate,30000000
+Naboo,12120,1 standard,temperate,4500000000
+Coruscant,12240,1 standard,temperate,1000000000000
+Kamino,19720,1 standard,temperate,1000000000
+Geonosis,11370,0.9 standard,temperate/arid,100000000000
+Utapau,12900,1 standard,temperate/arid/windy,95000000
+Mustafar,4200,1 standard,hot,20000
+Kashyyyk,12765,1 standard,tropical,45000000
+Polis Massa,0,0.56 standard,artificial temperate ,1000000
+Mygeeto,10088,1 standard,frigid,19000000
+Felucia,9100,0.75 standard,hot/humid,8500000
+Cato Neimoidia,0,1 standard,temperate/moist,10000000
+Eriadu,13490,1 standard,polluted,22000000000
+Corellia,11000,1 standard,temperate,3000000000
+Rodia,7549,1 standard,hot,1300000000
+Nal Hutta,12150,1 standard,temperate,7000000000
+Dantooine,9830,1 standard,temperate,1000
+Ord Mantell,14050,1 standard,temperate,4000000000
+Trandosha,0,0.62 standard,arid,42000000
+Socorro,0,1 standard,arid,300000000
+Mon Cala,11030,1,temperate,27000000000
+Chandrila,13500,1,temperate,1200000000
+Sullust,12780,1,superheated,18500000000
+Toydaria,7900,1,temperate,11000000
+Malastare,18880,1.56,arid/temperate/tropical,2000000000
+Dathomir,10480,0.9,temperate,5200
+Ryloth,10600,1,temperate/arid/subartic,1500000000
+Vulpter,14900,1,temperate/artic,421000000
+Haruun Kal,10120,0.98,temperate,705300
+Glee Anselm,15600,1,tropical/temperate,500000000
+Muunilinst,13800,1,temperate,5000000000
+Kalee,13850,1,arid/temperate/tropical,4000000000
